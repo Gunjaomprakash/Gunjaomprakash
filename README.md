@@ -5,14 +5,6 @@
 - **AI Curiosity Sparked:** Began personal ML projects, exploring data-driven solutions and deepening your interest in AI
 - **Pursuing a Master’s in AI:** Currently at DePaul University, refining advanced machine learning, data science, and ethical AI principles to create impactful solutions
 
-## 🧑‍💻 About Me
-- **Name:** Gunja Om Prakash
-- **Pronouns:** He/Him
-- **Location:** Chicago
-- **Education:** Master's student in AI at DePaul University
-- **Languages:** English, Telugu, Hindi
-- **Interests:** Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learnin, Computer Vision, Large Language Models, Vision Language models, Responsible AI, Data Science, Internet of Things
-
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Java, C++, C
 - **Frameworks & Libraries:** PyTorch, TensorFlow, React.js, Spring Boot
