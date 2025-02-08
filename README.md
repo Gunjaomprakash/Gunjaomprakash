@@ -19,7 +19,7 @@
     - **Databases**: PostgreSQL, MongoDB, SQLite.
 
 ## 🌱 Current Learning
-- Reinforcement Learning (RL), Cloud Computing, MLOps, and LLMOps.
+- Reinforcement Learning (RL), Cloud Computing and LLMOps.
 
 ## 👯 Looking to Collaborate On
 - Open source projects
