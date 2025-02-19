@@ -8,7 +8,7 @@
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Java, C++, C
 - **Frameworks & Libraries:** PyTorch, TensorFlow, React.js, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, VS Code, Anaconda, PostgreSQL, Microsoft Azure, AWS, GCP, Linux, Arduino, MongoDb, Sqlite
+- **Tools:** Git, Docker, Kubernetes, VS Code, Anaconda, PostgreSQL, Microsoft Azure, AWS, GCP, Linux, MongoDb, Sqlite
 - **Technical Skills:**
     - **Machine Learning**: Scikit-learn, XGBoost, Model Evaluation, etc.
     - **Deep Learning**: PyTorch, TensorFlow, CNNs, RNNs, Transformers.
@@ -17,6 +17,7 @@
     - **Prompt Engineering**: LLM usage & optimization (OpenAI, HuggingFace).
     - **Full-stack Development**: MEAN stack, MERN stack, Spring Boot, REST APIs.
     - **Databases**: PostgreSQL, MongoDB, SQLite.
+- **Have worked with** Various Electronics like Raspberry PI, Nvdia Nano Jetson, Arduino. 
 
 ## 🌱 Current Learning
 - Reinforcement Learning (RL), Cloud Computing and LLMOps.
