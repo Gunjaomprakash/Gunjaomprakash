@@ -16,8 +16,6 @@
 - 🧠 Strong foundation in full-stack development (frontend + backend + DevOps)  
 - 🧑‍🔬 Experience with ML pipelines, model deployment, and cloud integration  
 - 🌍 Actively participating in GenAI hackathons, building agent-based AI tools  
-- 🗣️ Fluent in English, Hindi, and Telugu — love collaborating across cultures  
-- 🧩 Always exploring new ideas, edge-tech, and startup-inspired innovation
 
 </td>
 <td width="50%">
