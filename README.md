@@ -1,8 +1,8 @@
 # Hi there, I'm omprakash! 👋
 - **Electronics & Communications Roots:**  Built a solid foundation in hardware and coding while working with motors, sensors, microcontrollers and microprocessors
 - **IoT Enthusiast:** Transitioned to building connected devices using Python, blending software and hardware for real-world applications
-- **Full-Stack Experience:** Spent 2+ year at a top Indian MNC honing full-stack development skills (frontend, backend, and deployment)
-- **AI Curiosity Sparked:** Began personal ML projects, exploring data-driven solutions and deepening your interest in AI
+- - **AI Curiosity Sparked:** Got intenrship opputuning at a startup where i started building basic ML projects, exploring data-driven solutions and which deepend my interest in AI
+- **Full-Stack Experience:** Spent 1+ year at a top Indian MNC honing full-stack development skills (frontend, backend, and deployment)
 - **Pursuing a Master’s in AI:** Currently at DePaul University, refining advanced machine learning, data science, and ethical AI principles to create impactful solutions
 
 ## 🔧 Technologies & Tools
