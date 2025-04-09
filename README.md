@@ -54,15 +54,13 @@
 - 🧪 AWS ML Specialization
 </td>
 <td width="50%">
-<div align="center">
+
 
 ### 🤝 Let’s Collaborate On
 
 - 🧠 Open Source AI Projects  
 - 🌐 Full-Stack AI Platforms  
 - 🤖 GenAI Workflows and Multi-Agent Systems  
-
-</div>
 
 </td>
 </tr>
