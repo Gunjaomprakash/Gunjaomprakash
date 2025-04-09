@@ -45,9 +45,9 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td >
 
 ### 📚 Currently Learning
 
@@ -57,7 +57,7 @@
 - 🔄 Self-hosted GenAI systems & agents
 
 </td>
-<td width="50%">
+<td>
 
 ### 🤝 Let’s Collaborate On
 
