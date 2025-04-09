@@ -15,7 +15,6 @@
 - 🤖 Specialized in building NLP systems, LLM agents, and multi-agent AI workflows  
 - 🧠 Strong foundation in full-stack development (frontend + backend + DevOps)  
 - 🧑‍🔬 Experience with ML pipelines, model deployment, and cloud integration  
-- 🌍 Actively participating in GenAI hackathons, building agent-based AI tools  
 
 </td>
 <td width="50%">
