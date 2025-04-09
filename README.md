@@ -12,7 +12,17 @@
 - ⚡ Passionate about building ethical & scalable AI systems  
 - 💡 From electronics → IoT → AI/ML  
 - 🧠 Hands-on with full-stack apps and ML models  
-- 🌎 Seeking to create real-world AI impact  
+- 🌎 Seeking to create real-world AI impact
+
+- ---
+
+### 🔍 NLP, LLMs & GenAI Enthusiast
+
+- 💬 Specialized in **Natural Language Processing (NLP)** and **LLM-based Agents**
+- ⚙️ Building multi-agent systems using **OpenAI**, **LangChain**, and custom architectures
+- 🛠️ Experienced with **prompt engineering**, **retrieval-augmented generation (RAG)**, and **fine-tuning**
+- 🤖 Currently exploring **LLMOps**, agent frameworks, and AI orchestration techniques
+- 🏆 Actively participating in **AI hackathons focused on GenAI & agent-based solutions**
 
 </td>
 <td>
