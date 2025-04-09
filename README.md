@@ -15,14 +15,6 @@
 - 🧠 Hands-on with full-stack apps and ML models  
 - 🌍 Seeking to create real-world AI impact  
 
-### 🔍 NLP, LLMs & GenAI Enthusiast
-
-- Specialized in **Natural Language Processing (NLP)** and **LLM-based Agents**  
-- Building multi-agent systems using **OpenAI**, **LangChain**, and custom architectures  
-- Skilled in **prompt engineering**, **RAG**, and **fine-tuning** LLMs  
-- Exploring **LLMOps**, agent frameworks, and AI orchestration tools  
-- Actively participating in **GenAI-focused workshops & hackathons**
-
 </td>
 <td width="50%">
 
@@ -42,6 +34,16 @@
 
 ---
 
+### 🔍 NLP, LLMs & GenAI Enthusiast
+
+- 💬 Specialized in **Natural Language Processing (NLP)** and **LLM-based Agents**  
+- ⚙️ Building multi-agent systems using **OpenAI**, **LangChain**, and custom architectures  
+- 🛠️ Skilled in **prompt engineering**, **RAG**, and **fine-tuning** LLMs  
+- 🤖 Exploring **LLMOps**, agent frameworks, and AI orchestration tools  
+- 🏆 Actively participating in **GenAI-focused workshops & hackathons**
+
+---
+
 ### 📚 Currently Learning
 
 - 🎯 Reinforcement Learning  
@@ -50,19 +52,25 @@
 
 ---
 
+<div align="center">
+
 ### 🤝 Let’s Collaborate On
 
 - 🧠 Open Source AI Projects  
 - 🌐 Full-Stack AI Platforms  
-- 🤖 GenAI Workflows and Multi-Agent Systems
+- 🤖 GenAI Workflows and Multi-Agent Systems  
+
+</div>
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/gunjaomprakash)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://x.com/omprakasho7)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:gunjaomprakash@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/gunjaomprakash"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://x.com/omprakasho7"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" /></a>
+  <a href="mailto:gunjaomprakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+</p>
 
 ---
 
