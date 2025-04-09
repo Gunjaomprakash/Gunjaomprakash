@@ -11,9 +11,13 @@
 ### 👨‍💻 About Me
 
 - ⚡ Passionate about building ethical & scalable AI systems  
-- 💡 From electronics → IoT → AI/ML  
-- 🧠 Hands-on with full-stack apps and ML models  
-- 🌍 Seeking to create real-world AI impact  
+- 💡 Started with electronics & embedded systems → transitioned into IoT → now fully into AI/ML  
+- 🤖 Specialized in building NLP systems, LLM agents, and multi-agent AI workflows  
+- 🧠 Strong foundation in full-stack development (frontend + backend + DevOps)  
+- 🧑‍🔬 Experience with ML pipelines, model deployment, and cloud integration  
+- 🌍 Actively participating in GenAI hackathons, building agent-based AI tools  
+- 🗣️ Fluent in English, Hindi, and Telugu — love collaborating across cultures  
+- 🧩 Always exploring new ideas, edge-tech, and startup-inspired innovation
 
 </td>
 <td width="50%">
@@ -37,39 +41,38 @@
 ### 🔍 NLP, LLMs & GenAI Enthusiast
 
 - 💬 Specialized in **Natural Language Processing (NLP)** and **LLM-based Agents**  
-- ⚙️ Building multi-agent systems using **OpenAI**, **LangChain**, and custom architectures  
-- 🛠️ Skilled in **prompt engineering**, **RAG**, and **fine-tuning** LLMs  
-- 🤖 Exploring **LLMOps**, agent frameworks, and AI orchestration tools  
-- 🏆 Actively participating in **GenAI-focused workshops & hackathons**
+- ⚙️ Building multi-agent systems using **OpenAI**, **LangChain**, and custom agent frameworks  
+- 🛠️ Skilled in **prompt engineering**, **RAG**, tool use, context handling, and **fine-tuning**  
+- 🤖 Exploring **LLMOps**, orchestration tools, and scalable cloud-native AI workflows  
+- 🏆 Active in **GenAI hackathons** — building real-world prototypes under pressure
 
 ---
+
 <table>
 <tr>
 <td width="50%">
 
-  ### 📚 Currently Learning
+### 📚 Currently Learning
 
 - 🎯 Reinforcement Learning  
 - ☁️ Cloud AI + LLMOps  
-- 🧪 AWS ML Specialization
+- 🧪 AWS ML Specialization  
+- 🔄 Self-hosted GenAI systems & agents
+
 </td>
 <td width="50%">
-
 
 ### 🤝 Let’s Collaborate On
 
 - 🧠 Open Source AI Projects  
 - 🌐 Full-Stack AI Platforms  
 - 🤖 GenAI Workflows and Multi-Agent Systems  
+- 🛠️ AI Agent Architectures + Memory + Planning  
+- 🧩 Experimental research-to-product ideas  
 
 </td>
 </tr>
 </table>
-
-
-
----
-
 
 ---
 
