@@ -43,15 +43,17 @@
 - 🏆 Actively participating in **GenAI-focused workshops & hackathons**
 
 ---
+<table>
+<tr>
+<td width="50%">
 
-### 📚 Currently Learning
+  ### 📚 Currently Learning
 
 - 🎯 Reinforcement Learning  
 - ☁️ Cloud AI + LLMOps  
 - 🧪 AWS ML Specialization
-
----
-
+</td>
+<td width="50%">
 <div align="center">
 
 ### 🤝 Let’s Collaborate On
@@ -61,6 +63,15 @@
 - 🤖 GenAI Workflows and Multi-Agent Systems  
 
 </div>
+
+</td>
+</tr>
+</table>
+
+
+
+---
+
 
 ---
 
