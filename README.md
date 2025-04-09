@@ -1,65 +1,62 @@
 # 👋 Hi, I'm Om Prakash Gunja
 
-🔍 AI/ML Engineer | Generative AI & LLM Enthusiast | Full Stack Developer  
-📍 Based in Chicago | Master’s in Artificial Intelligence @ DePaul University  
-🚀 Passionate about turning bold ideas into real-world AI solutions
+> 🧠 AI/ML Engineer | 🎓 Master’s in AI @ DePaul | ⚙️ Full Stack Developer | 🤖 LLM & GenAI Explorer
 
 ---
 
-## 🧠 About Me
+<table>
+<tr>
+<td>
 
-- 🎓 Started with a strong foundation in **Electronics & Communication Engineering**, exploring hardware through microcontrollers, sensors, and motors.
-- 🔗 Transitioned into **IoT & Embedded Systems**, blending hardware and software using Python.
-- 💡 My curiosity for AI was sparked during an internship where I built basic ML projects, diving deep into data and decision-making.
-- 👨‍💻 Worked as a **Full Stack Developer** at a leading Indian MNC, gaining hands-on experience in building scalable applications and microservices.
-- 📚 Currently pursuing a **Master’s in AI**, deepening expertise in **machine learning, LLMs, data science, and ethical AI**.
+### 👨‍💻 About Me
+- ⚡ Passionate about building ethical & scalable AI systems  
+- 💡 From electronics → IoT → AI/ML  
+- 🧠 Hands-on with full-stack apps and ML models  
+- 🌎 Seeking to create real-world AI impact  
 
----
+</td>
+<td>
 
-## 🛠️ Skills & Technologies
+### 🔧 Tech Stack
+- **Languages**: Python, Java, C++, C  
+- **ML/DL**: PyTorch, TensorFlow, Scikit-learn, XGBoost  
+- **Web**: React.js, Spring Boot, Node.js  
+- **MLOps**: Docker, K8s, GitHub Actions, Azure ML, AWS  
+- **Databases**: PostgreSQL, MongoDB, SQLite  
+- **Cloud**: AWS, GCP, Azure  
+- **IoT**: Raspberry Pi, NVIDIA Jetson Nano, Arduino  
 
-**Languages:** Python, Java, C++, C  
-**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, XGBoost, React.js, Spring Boot  
-**MLOps & Tools:** Docker, Kubernetes, GitHub Actions, Azure ML, AWS SageMaker  
-**Cloud Platforms:** AWS, GCP, Microsoft Azure  
-**Data Analysis & Viz:** Pandas, NumPy, Matplotlib, Seaborn  
-**Prompt Engineering:** OpenAI, HuggingFace  
-**Databases:** PostgreSQL, MongoDB, SQLite  
-**Electronics & IoT:** Raspberry Pi, Nvidia Jetson Nano, Arduino  
-**Web Dev:** MEAN/MERN stack, REST APIs  
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 Reinforcement Learning  
-- ☁️ Cloud Computing (AWS/GCP)  
-- 🔧 LLMOps & Scalable AI Systems  
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let’s Collaborate
-
-- Open source AI/ML projects  
-- Full-stack development or deployment challenges  
-- Innovative GenAI or deep learning initiatives  
-
----
-
-## 📫 Connect With Me
-
-- 📧 gunjaomprakash@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gunjaomprakash/)  
-- 🐦 [Twitter/X](https://x.com/omprakasho7?s=21&t=9kDkGHxxcV69ONBbhXwEUg)  
-- 🌐 Personal Website: *Under Progress*
+### 📚 Currently Learning
+- Reinforcement Learning  
+- LLMOps & Cloud AI  
+- AWS Machine Learning Specialization
 
 ---
 
-## 🏆 GitHub Stats
+### 🤝 Let’s Collaborate On
+- Open Source AI Projects  
+- Full-Stack AI Platforms  
+- GenAI Workflows
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/gunjaomprakash)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://x.com/omprakasho7)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:gunjaomprakash@gmail.com)
+
+---
+
+### 🏆 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjaomprakash&layout=compact&theme=radical)
 
 ---
 
-💬 *Feel free to reach out if you want to collaborate, brainstorm, or just say hello!*  
-Thanks for visiting my profile 🚀
+💬 *Let’s build something epic together. DM me anytime!*
