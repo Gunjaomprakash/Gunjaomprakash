@@ -45,7 +45,7 @@
 
 ---
 
-<table width="100%">
+<table>
 <tr>
 <td >
 
@@ -64,8 +64,7 @@
 - 🧠 Open Source AI Projects  
 - 🌐 Full-Stack AI Platforms  
 - 🤖 GenAI Workflows and Multi-Agent Systems  
-- 🛠️ AI Agent Architectures + Memory + Planning  
-- 🧩 Experimental research-to-product ideas  
+- 🛠️ AI Agent Architectures + Memory + Planning   
 
 </td>
 </tr>
