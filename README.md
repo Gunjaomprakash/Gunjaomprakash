@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Om Prakash Gunja
 
-> 🧠 AI/ML Engineer | 🎓 Master’s in AI @ DePaul | ⚙️ Full Stack Developer | 🤖 LLM & GenAI Explorer
+> AI/ML Engineer | LLM & GenAI Expert | Master’s in AI @ DePaul | Full Stack Developer 
 
 ---
 
