@@ -8,13 +8,13 @@
 <tr>
 <td width="50%">
 
-### 👨‍💻 About Me
+### About Me
 
-- ⚡ Passionate about building ethical & scalable AI systems  
-- 💡 Started with electronics & embedded systems → transitioned into IoT → now fully into AI/ML  
-- 🤖 Specialized in building NLP systems, LLM agents, and multi-agent AI workflows  
-- 🧠 Strong foundation in full-stack development (frontend + backend + DevOps)  
-- 🧑‍🔬 Experience with ML pipelines, model deployment, and cloud integration  
+- Passionate about building ethical & scalable AI systems  
+- Started with electronics & embedded systems → transitioned into IoT → now fully into AI/ML  
+- Specialized in building NLP systems, LLM agents, and multi-agent AI workflows  
+- Strong foundation in full-stack development (frontend + backend + DevOps)  
+- Experience with ML pipelines, model deployment, and cloud integration  
 
 </td>
 <td width="50%">
@@ -37,11 +37,11 @@
 
 ### 🔍 NLP, LLMs & GenAI Enthusiast
 
-- 💬 Specialized in **Natural Language Processing (NLP)** and **LLM-based Agents**  
-- ⚙️ Building multi-agent systems using **OpenAI**, **LangChain**, and custom agent frameworks  
-- 🛠️ Skilled in **prompt engineering**, **RAG**, tool use, context handling, and **fine-tuning**  
-- 🤖 Exploring **LLMOps**, orchestration tools, and scalable cloud-native AI workflows  
-- 🏆 Active in **GenAI hackathons** — building real-world prototypes under pressure
+- Specialized in **Natural Language Processing (NLP)** and **LLM-based Agents**  
+- Building multi-agent systems using **OpenAI**, **LangChain**, and custom agent frameworks  
+- Skilled in **prompt engineering**, **RAG**, tool use, context handling, and **fine-tuning**  
+- Exploring **LLMOps**, orchestration tools, and scalable cloud-native AI workflows  
+- Active in **GenAI hackathons** — building real-world prototypes under pressure
 
 ---
 
@@ -61,10 +61,10 @@
 
 ### 🤝 Let’s Collaborate On
 
-- 🧠 Open Source AI Projects  
-- 🌐 Full-Stack AI Platforms  
-- 🤖 GenAI Workflows and Multi-Agent Systems  
-- 🛠️ AI Agent Architectures + Memory + Planning   
+- Open Source AI Projects  
+- Full-Stack AI Platforms  
+- GenAI Workflows and Multi-Agent Systems  
+- AI Agent Architectures + Memory + Planning   
 
 </td>
 </tr>
