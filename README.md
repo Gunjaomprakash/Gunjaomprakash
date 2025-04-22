@@ -8,7 +8,7 @@
 <tr>
 <td width="50%">
 
-### About Me
+### 👨🏻‍💻 About Me
 
 - Passionate about building ethical & scalable AI systems  
 - Started with electronics & embedded systems → transitioned into IoT → now fully into AI/ML  
@@ -51,10 +51,10 @@
 
 ### 📚 Currently Learning
 
-- 🎯 Reinforcement Learning  
-- ☁️ Cloud AI + LLMOps  
-- 🧪 AWS ML Specialization  
-- 🔄 Self-hosted GenAI systems & agents
+- Reinforcement Learning  
+- Cloud AI + LLMOps  
+- AWS ML Specialization  
+- Self-hosted GenAI systems & agents
 
 </td>
 <td>
