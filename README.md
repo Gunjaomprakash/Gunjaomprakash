@@ -80,9 +80,7 @@
   <a href="mailto:gunjaomprakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
   
 </p>
-![View Count](https://komarev.com/ghpvc/?username=Gunjaomprakash&style=flat-square)
 
-Since: 2025-04-26
 ---
 
 ### 🏆 GitHub Stats
