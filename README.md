@@ -90,7 +90,10 @@
   <small><i>(Started counting: Apr 25, 2025)</i></small>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjaomprakash&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjaomprakash&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ---
 
