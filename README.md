@@ -78,8 +78,11 @@
   <a href="https://linkedin.com/in/gunjaomprakash"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://x.com/omprakasho7"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" /></a>
   <a href="mailto:gunjaomprakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  
 </p>
+![View Count](https://komarev.com/ghpvc/?username=Gunjaomprakash&style=flat-square)
 
+Since: 2025-04-26
 ---
 
 ### 🏆 GitHub Stats
