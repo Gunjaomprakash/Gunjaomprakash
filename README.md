@@ -85,10 +85,7 @@
 
 ### 🏆 GitHub Stats
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Gunjaomprakash&label=Profile%20views&color=blueviolet&style=flat" alt="gunjaomprakash profile views" /> <br/>
-  <small><i>(Started counting: Apr 25, 2025)</i></small>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjaomprakash&layout=compact&theme=radical" alt="Top Languages" />
@@ -98,3 +95,7 @@
 ---
 
 💬 *Let’s build something epic together. DM me anytime!*
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=Gunjaomprakash&label=Profile%20views&color=blueviolet&style=flat" alt="gunjaomprakash profile views" /> <br/>
+  <small><i>(Started counting: Apr 25, 2025)</i></small>
+</p>
