@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Om Prakash Gunja
 
-> AI/ML Engineer | LLM & GenAI Expert | Master’s in AI @ DePaul | Full Stack Developer 
+AI Solutions Engineer | Crafting scalable AI systems with LLMs, MLOps, and full-stack development. MS in Artificial Intelligence @ DePaul. Explore my projects in ML, GenAI, and data pipelines.
 
 ---
 
