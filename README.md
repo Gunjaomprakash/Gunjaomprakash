@@ -1,4 +1,4 @@
-# Omprakash Gunja
+# Om Prakash Gunja
 
 ### ML / Agent Engineer
 
