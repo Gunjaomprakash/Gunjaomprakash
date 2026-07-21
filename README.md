@@ -1,101 +1,35 @@
-# 👋 Hi, I'm Om Prakash Gunja
+# Omprakash Gunja
 
-AI Solutions Engineer | Crafting scalable AI systems with LLMs, MLOps, and full-stack development. MS in Artificial Intelligence @ DePaul. Explore my projects in ML, GenAI, and data pipelines.
+### ML / Agent Engineer
 
----
+I build production machine-learning systems, AI-agent infrastructure,
+and evaluation workflows that remain reliable beyond the prototype stage.
 
-<table>
-<tr>
-<td width="50%">
+Based in Chicago. Currently working at Fortune Brands Innovations.
 
-### 👨🏻‍💻 About Me
+> Recent work includes improving an ML retraining workflow from approximately
+> two days to under six hours.
 
-- Passionate about building ethical & scalable AI systems  
-- Started with electronics & embedded systems → transitioned into IoT → now fully into AI/ML  
-- Specialized in building NLP systems, LLM agents, and multi-agent AI workflows  
-- Strong foundation in full-stack development (frontend + backend + DevOps)  
-- Experience with ML pipelines, model deployment, and cloud integration  
+## What I build
 
-</td>
-<td width="50%">
+- **Production ML systems:** computer vision, observability, drift diagnosis,
+  reproducible training, and deployment.
+- **Agent systems:** multi-agent orchestration, RAG, evaluation harnesses,
+  human-feedback loops, and tool use.
+- **Developer infrastructure:** MCP integrations that help coding agents
+  inspect, test, and verify applications.
 
-### 🔧 Tech Stack
+**Core tools:** Python · PyTorch · Azure ML · Docker · GitHub Actions · MCP
 
-- **Languages:** Python, Java, C++, C  
-- **ML/DL:** PyTorch, TensorFlow, Scikit-learn, XGBoost  
-- **Web:** React.js, Spring Boot, Node.js  
-- **MLOps:** Docker, Kubernetes, GitHub Actions, Azure ML, AWS  
-- **Databases:** PostgreSQL, MongoDB, SQLite  
-- **Cloud:** AWS, GCP, Azure  
-- **IoT:** Raspberry Pi, NVIDIA Jetson Nano, Arduino  
+## Featured work
 
-</td>
-</tr>
-</table>
+| Project | What it demonstrates |
+| --- | --- |
+| [LLM_Rag](https://github.com/Gunjaomprakash/LLM_Rag) | A RAG pipeline developed from scratch across three notebook iterations, including domain-specific retrieval and exploratory fine-tuning. |
+| [ML-and-DS-Projects](https://github.com/Gunjaomprakash/ML-and-DS-Projects) | Applied machine-learning and data-analysis notebooks from graduate and independent work. |
+| [CitiSafe](https://github.com/Gunjaomprakash/CitiSafe-Project) | A team-built mobile safety prototype created during a 24-hour hackathon using React Native, Flask, WebSockets, maps, and Gemini Flash. |
 
----
+## Connect
 
-### 🔍 NLP, LLMs & GenAI Enthusiast
-
-- Specialized in **Natural Language Processing (NLP)** and **LLM-based Agents**  
-- Building multi-agent systems using **OpenAI**, **LangChain**, and custom agent frameworks  
-- Skilled in **prompt engineering**, **RAG**, tool use, context handling, and **fine-tuning**  
-- Exploring **LLMOps**, orchestration tools, and scalable cloud-native AI workflows  
-- Active in **GenAI hackathons** — building real-world prototypes under pressure
-
----
-
-<table>
-<tr>
-<td >
-
-### 📚 Currently Learning
-
-- Reinforcement Learning  
-- Cloud AI + LLMOps  
-- AWS ML Specialization  
-- Self-hosted GenAI systems & agents
-
-</td>
-<td>
-
-### 🤝 Let’s Collaborate On
-
-- Open Source AI Projects  
-- Full-Stack AI Platforms  
-- GenAI Workflows and Multi-Agent Systems  
-- AI Agent Architectures + Memory + Planning   
-
-</td>
-</tr>
-</table>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/gunjaomprakash"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://x.com/omprakasho7"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" /></a>
-  <a href="mailto:gunjaomprakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  
-</p>
-
----
-
-### 🏆 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjaomprakash&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
----
-
-💬 *Let’s build something epic together. DM me anytime!*
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=Gunjaomprakash&label=Profile%20views&color=blueviolet&style=flat" alt="gunjaomprakash profile views" /> <br/>
-  <small><i>(Started counting: Apr 25, 2025)</i></small>
-</p>
+[LinkedIn](https://www.linkedin.com/in/gunjaomprakash) ·
+[Email](mailto:ogunja.dev@gmail.com)
