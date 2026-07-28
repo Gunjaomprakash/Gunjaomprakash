@@ -1,35 +1,24 @@
-# Om Prakash Gunja
+# Omprakash Gunja
 
-### ML / Agent Engineer
+**ML / Agent Engineer** in Chicago. I build production machine-learning systems and the tooling that keeps them honest once they are running.
 
-I build production machine-learning systems, AI-agent infrastructure,
-and evaluation workflows that remain reliable beyond the prototype stage.
-
-Based in Chicago. Currently working at Fortune Brands Innovations.
-
-> Recent work includes improving an ML retraining workflow from approximately
-> two days to under six hours.
+At Fortune Brands Innovations I own a product-identification classifier covering 4,000+ classes on Azure, and lead the multi-agent content system the writing team uses. Before that, three years on an IoT services platform in Hyderabad, where I took over the machine learning side of a failure-forecasting product serving 30+ client companies on AWS.
 
 ## What I build
 
-- **Production ML systems:** computer vision, observability, drift diagnosis,
-  reproducible training, and deployment.
-- **Agent systems:** multi-agent orchestration, RAG, evaluation harnesses,
-  human-feedback loops, and tool use.
-- **Developer infrastructure:** MCP integrations that help coding agents
-  inspect, test, and verify applications.
+- **Production ML** — observability, drift diagnosis, reproducible training, deployment, and the retraining that decides whether a model is still worth trusting.
+- **Time-series and anomaly detection** — forecasting and rare-event detection on real-time sensor data, where a false alarm costs as much as a miss.
+- **AI agent systems** — multi-agent orchestration, deterministic and LLM-as-judge evaluation, RAG, and human-feedback loops.
+- **Developer tooling** — MCP integrations that let coding agents inspect, test, and verify applications directly.
 
-**Core tools:** Python · PyTorch · Azure ML · Docker · GitHub Actions · MCP
+## Selected projects
 
-## Featured work
+- [RAG From Scratch](https://github.com/Gunjaomprakash/LLM_Rag) — A RAG pipeline built from scratch and hardened over three iterations: base retrieval, a domain-specific workflow, and an exploratory fine-tuning branch.
+- [ML & Data Science Projects](https://github.com/Gunjaomprakash/ML-and-DS-Projects) — Applied machine-learning and data-analysis notebooks from graduate and independent work.
+- [CitiSafe](https://github.com/Gunjaomprakash/CitiSafe-Project) — Context-aware routing prototype built in a 24-hour hackathon with React Native, Flask, WebSockets, and Gemini Flash.
 
-| Project | What it demonstrates |
-| --- | --- |
-| [LLM_Rag](https://github.com/Gunjaomprakash/LLM_Rag) | A RAG pipeline developed from scratch across three notebook iterations, including domain-specific retrieval and exploratory fine-tuning. |
-| [ML-and-DS-Projects](https://github.com/Gunjaomprakash/ML-and-DS-Projects) | Applied machine-learning and data-analysis notebooks from graduate and independent work. |
-| [CitiSafe](https://github.com/Gunjaomprakash/CitiSafe-Project) | A team-built mobile safety prototype created during a 24-hour hackathon using React Native, Flask, WebSockets, maps, and Gemini Flash. |
+## Elsewhere
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/gunjaomprakash) ·
-[Email](mailto:ogunja.dev@gmail.com)
+- [Portfolio](https://omprakashgunja.com)
+- [LinkedIn](https://www.linkedin.com/in/gunjaomprakash)
+- [Email](mailto:ogunja.dev@gmail.com)
