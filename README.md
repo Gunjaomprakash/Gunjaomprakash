@@ -1,4 +1,4 @@
-# Omprakash Gunja
+# Om Prakash Gunja
 
 **ML / Agent Engineer** in Chicago. I build production machine-learning systems and the tooling that keeps them honest once they are running.
 
