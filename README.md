@@ -1,24 +1,38 @@
-# Om Prakash Gunja
+# Hi, I'm Om Prakash 👋
 
-**ML / Agent Engineer** in Chicago. I build production machine-learning systems and the tooling that keeps them honest once they are running.
+**Applied AI / ML Engineer** · LLM agents · Recommendation systems · Production ML
+Senior AI/ML Engineer at Fortune Brands · Chicago, IL
 
-At Fortune Brands Innovations I own a product-identification classifier covering 4,000+ classes on Azure, and lead the multi-agent content system the writing team uses. Before that, three years on an IoT services platform in Hyderabad, where I took over the machine learning side of a failure-forecasting product serving 30+ client companies on AWS.
+I build production AI that moves business numbers, and I help teams without in-house AI talent turn ideas into working systems.
 
-## What I build
+## What I work on
 
-- **Production ML** — observability, drift diagnosis, reproducible training, deployment, and the retraining that decides whether a model is still worth trusting.
-- **Time-series and anomaly detection** — forecasting and rare-event detection on real-time sensor data, where a false alarm costs as much as a miss.
-- **AI agent systems** — multi-agent orchestration, deterministic and LLM-as-judge evaluation, RAG, and human-feedback loops.
-- **Developer tooling** — MCP integrations that let coding agents inspect, test, and verify applications directly.
+- **Multi-agent systems:** agent orchestration, RAG, and LLM-as-judge evaluation with human review in the loop.
+- **Coding agents in ML engineering:** custom MCP servers, skills, and guardrails that let teams ship faster with agents without code or data leaving the environment.
+- **Agentic 3D content:** Claude + Blender MCP pipelines that turn CAD into product imagery at a fraction of traditional cost.
+- **Classification and recommendation at scale:** training, serving, and drift-triggered retraining for models that power downstream AI apps.
 
-## Selected projects
+## Selected results
 
-- [RAG From Scratch](https://github.com/Gunjaomprakash/LLM_Rag) — A RAG pipeline built from scratch and hardened over three iterations: base retrieval, a domain-specific workflow, and an exploratory fine-tuning branch.
-- [ML & Data Science Projects](https://github.com/Gunjaomprakash/ML-and-DS-Projects) — Applied machine-learning and data-analysis notebooks from graduate and independent work.
-- [CitiSafe](https://github.com/Gunjaomprakash/CitiSafe-Project) — Context-aware routing prototype built in a 24-hour hackathon with React Native, Flask, WebSockets, and Gemini Flash.
+- Agent-built 3D product imagery: about **$200 down to under $3 per product**, with under 30 minutes of human review each.
+- Multi-agent content platform: **82% of drafts accepted on the first try**, and publish time cut from 30–45 min to 5 min.
+- Classification platform serving **50K+ requests a month at 140 ms p95**, with retraining cut from 48 h to 6 h.
+- ServiceNow ticket routing: **+37% F1** over baseline on 1.2M+ tickets, with 100K+ daily inferences under 200 ms p99.
 
-## Elsewhere
+## Stack
 
-- [Portfolio](https://omprakashgunja.com)
-- [LinkedIn](https://www.linkedin.com/in/gunjaomprakash)
-- [Email](mailto:ogunja.dev@gmail.com)
+**Applied AI:** LLM agents · MCP · Claude / Claude Code · Codex · Gemini · Microsoft Agent Framework · LiteLLM · LangGraph · LlamaIndex
+**ML:** Python · PyTorch · RecSys · Large-scale classification · Time-series forecasting
+**Cloud & MLOps:** Azure · AWS (SageMaker, Lambda) · Docker · CI/CD · MLflow · Drift-triggered retraining
+
+## Certifications
+
+Building with the Claude API · Machine Learning Operations Engineer Associate (AI 300) · Claude Certificate Architect
+
+## Education
+
+MS, Artificial Intelligence, DePaul University
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ogunja) · omprakash.mle@gmail.com
